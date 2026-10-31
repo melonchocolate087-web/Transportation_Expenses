@@ -1,0 +1,51 @@
+"Respondent_ID","Age","Gender","Main_Transport","Trips_Per_Day","Daily_Travel_Hours","Daily_Fare_PHP","Monthly_Transport_Budget_PHP","Distance_KM","Fuel_or_Fare_Type","Travel_Purpose","Satisfaction_Rating"
+1,32,"Male","Train",4,4.4,25,5200,14.2,"Cash","Shopping",3
+2,36,"Male","Walking",5,4.4,130,2100,27.6,"Transit Card","Personal Errands",5
+3,31,"Female","Private Car",3,3.4,0,5700,13.4,"E-wallet","Work",1
+4,20,"Female","Bus",1,1.5,125,4900,33.4,"Cash","Leisure",3
+5,27,"Male","Walking",6,1.4,205,3200,9.4,"Transit Card","Leisure",3
+6,35,"Female","Motorcycle",2,2.9,240,5700,20.4,"E-wallet","Work",2
+7,39,"Female","Motorcycle",1,1.6,285,4400,11.8,"Transit Card","Work",5
+8,28,"Female","Train",2,2.6,80,5700,8.5,"E-wallet","Work",1
+9,22,"Female","Bus",5,3.6,140,1100,38.1,"Transit Card","School",4
+10,37,"Male","Bus",3,1.2,125,2400,13.5,"Transit Card","Shopping",4
+11,31,"Female","Bus",4,2.1,130,2200,19.7,"Cash","Personal Errands",1
+12,39,"Female","Tricycle",4,2.4,100,3300,2.1,"E-wallet","Shopping",3
+13,22,"Female","Bus",1,4,30,2100,22.4,"Transit Card","Shopping",4
+14,36,"Male","Bus",6,4.2,295,3700,26.1,"Cash","Shopping",4
+15,26,"Male","Private Car",6,4,260,600,24.3,"Cash","Personal Errands",1
+16,20,"Female","Walking",4,3.2,125,5300,13.6,"Transit Card","Personal Errands",5
+17,25,"Male","Tricycle",1,4.3,200,600,35.8,"E-wallet","Shopping",3
+18,24,"Female","Tricycle",6,2.6,95,1700,25.4,"Transit Card","Personal Errands",4
+19,27,"Female","Private Car",3,2.8,25,2800,12.8,"E-wallet","Work",2
+20,26,"Male","Jeepney",4,1.8,245,5300,16.1,"E-wallet","Shopping",3
+21,36,"Female","Private Car",3,1.9,145,700,7.3,"E-wallet","Personal Errands",2
+22,21,"Female","Private Car",5,0.6,150,2200,34.6,"Cash","Work",3
+23,31,"Male","Private Car",4,2.5,140,600,38.2,"E-wallet","School",3
+24,34,"Male","Train",4,4,80,4100,23,"Cash","Shopping",1
+25,28,"Female","Private Car",4,0.5,180,1600,13.9,"Cash","Personal Errands",5
+26,24,"Male","Train",6,0.8,280,1700,39.9,"Cash","School",4
+27,38,"Male","Private Car",1,1.2,95,4600,10.2,"E-wallet","School",4
+28,29,"Male","Walking",2,3.6,170,1000,24.9,"E-wallet","Personal Errands",5
+29,32,"Female","Jeepney",3,3.4,120,4600,5.2,"Transit Card","Personal Errands",3
+30,27,"Female","Walking",4,4.4,225,4600,20,"Transit Card","Leisure",2
+31,30,"Male","Train",3,2.4,160,4200,4.9,"Cash","School",4
+32,24,"Female","Walking",1,0.8,5,5200,7.3,"E-wallet","Personal Errands",5
+33,26,"Female","Motorcycle",6,3.1,15,2000,12,"E-wallet","Leisure",2
+34,26,"Male","Walking",5,3.5,45,3900,23.8,"Transit Card","Shopping",3
+35,27,"Male","Walking",5,1,160,4000,29.5,"Transit Card","Work",3
+36,40,"Male","Bus",2,2.1,20,3100,7.5,"Transit Card","Leisure",1
+37,38,"Female","Private Car",3,1.4,260,3100,34.8,"Transit Card","Personal Errands",3
+38,24,"Female","Private Car",5,0.7,120,3900,28.6,"E-wallet","Personal Errands",2
+39,38,"Female","Walking",6,2.1,35,2700,30.7,"Cash","School",3
+40,23,"Female","Walking",6,0.8,270,700,6.7,"Cash","Shopping",3
+41,19,"Male","Train",1,1.4,120,3500,15,"Transit Card","Shopping",1
+42,22,"Male","Bus",4,0.7,100,5200,27.3,"Cash","Shopping",2
+43,25,"Female","Motorcycle",2,3.2,220,600,21.4,"E-wallet","Leisure",2
+44,29,"Female","Private Car",4,1.7,85,5100,14.6,"E-wallet","Work",2
+45,30,"Female","Motorcycle",5,0.9,205,2700,10.4,"Transit Card","Leisure",4
+46,35,"Male","Walking",5,0.8,150,700,3.3,"E-wallet","Work",1
+47,18,"Female","Train",6,4,25,1300,10.2,"Cash","School",5
+48,23,"Male","Tricycle",5,3.5,30,4300,35.7,"Transit Card","Personal Errands",5
+49,38,"Female","Tricycle",5,3.8,300,3400,32.7,"Cash","Work",3
+50,32,"Male","Private Car",1,4.4,200,3500,30.2,"Cash","Work",3
